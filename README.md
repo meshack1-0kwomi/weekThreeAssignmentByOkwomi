@@ -1,0 +1,1 @@
+This file contains a function that takes input from the user which include the price of the product and the discount percentage charged on the product. it then returns the final price of the product to the user.
